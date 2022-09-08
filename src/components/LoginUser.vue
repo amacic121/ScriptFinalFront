@@ -1,5 +1,6 @@
 <template>
     <div>
+      
        <b-navbar class="header" fixed="top" type="dark" variant="dark">
           <div class="container-fluid">
              <a class="navbar-brand" href="/">Task Manager</a>
@@ -17,7 +18,7 @@
              </div>
           </div>
        </b-navbar>
-       
+      
        
        <h3>Sign In</h3>
        <label>Username</label>
@@ -68,7 +69,7 @@
       justify-content: center;
     }
     h3 {
-      margin: 40px 0 0;
+      margin: 70px 0 0;
     }
     
     ul {

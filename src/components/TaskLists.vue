@@ -1,5 +1,6 @@
 <template>
     <div class="container">
+      <p>
        <b-navbar class="header" fixed="top" type="dark" variant="dark">
           <div class="container-fluid">
              <a class="navbar-brand" href="/">Task Manager</a>
@@ -16,6 +17,7 @@
              </div>
           </div>
        </b-navbar>
+      </p>
        <p></p>
        <table class="table">
           <thead>

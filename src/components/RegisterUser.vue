@@ -87,7 +87,7 @@
   }
   
   h3 {
-    margin: 40px 0 0;
+    margin: 70px 0 0;
   }
   
   ul {
